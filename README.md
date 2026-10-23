@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aaryan 👋</h1>
 
 <p align="center">
-  <em>I can make it happen.</em>
+  <em>.</em>
 </p>
 
 <p align="center">
